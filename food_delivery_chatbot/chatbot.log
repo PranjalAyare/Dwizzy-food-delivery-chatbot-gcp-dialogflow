@@ -1,0 +1,33 @@
+INFO:root:User Input: hi
+INFO:root:Dialogflow Response: Hi! How are you doing?
+INFO:root:User Input: i want to order food
+INFO:root:Dialogflow Response: may i know your name?
+INFO:root:User Input: pranjal
+INFO:root:Dialogflow Response: can you please provide your email address , to process the ordering
+INFO:root:User Input: abc@gmail.com
+INFO:root:Dialogflow Response: may i know your name?
+INFO:root:User Input: pranjal
+INFO:root:Dialogflow Response: can you please provide your email address , to process the ordering
+INFO:root:User Input: abc@gmail.com
+INFO:root:Dialogflow Response: may i know your good name?
+INFO:root:User Input: hi
+INFO:root:Dialogflow Response: Hi! How are you doing?
+INFO:root:User Input: i'm fine , how are you?
+INFO:root:Dialogflow Response: Feeling wonderful!
+INFO:root:User Input: i want to order food
+INFO:root:Dialogflow Response: may i know your name?
+INFO:root:User Input: pranjal
+INFO:root:Dialogflow Response: can you please provide your email address , to process the ordering
+INFO:root:User Input: abc@gmail.com
+INFO:root:Dialogflow Response: may i know your name?
+INFO:root:User Input: pranjal
+INFO:root:Dialogflow Response: please provide us with your email address
+INFO:root:User Input: abc@gmail.com
+INFO:root:Dialogflow Response: what is your name?
+INFO:root:User Input: pranjal
+INFO:root:Dialogflow Response: can you please provide your email address , to process the ordering
+INFO:root:User Input: abc@gmail.com
+INFO:root:Dialogflow Response: what is your name?
+INFO:root:User Input: hi
+INFO:root:User Input: i want to order food
+INFO:root:User Input: hi

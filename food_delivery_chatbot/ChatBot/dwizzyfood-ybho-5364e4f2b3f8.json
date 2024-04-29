@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "dwizzyfood-ybho",
+  "private_key_id": "5364e4f2b3f85763f622222617f4f3a7ded7081d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCcLgswNHUb3/uN\ndTbKLTOobGnu63OYGqE07ITYrqtdHUcUcRI7KnKSZd5Gj7r1iIbts3W8HfLivqWP\n7zC16WFY7TwtB7tvJhGZNf0b5ku7VYz6ik/MWLscH9QY9rc+GyY8eUpwDLHWnG3l\n0na+Yb7jU8aqhVX8HTIEyHlkvBIyJz9sXMKAZp65U7kZDIpnJCZEkA7cZ0GEBmzB\nAifrCOrIx45puMJjoEC0kRP2mFxbjsHiVnIqLRw1dPZkfbbnQZTibFU7y4l1g1In\n78ifqBZ2qnkxWMGnhSzzl6H1wBOSH4UhXmMWeaDpNNlAIlbieMi63q4Fau1hnMbD\nfO/34DtLAgMBAAECggEAAsBHvVDs9FF2KDJ1qeZVpsJH2JEhe/8kFvYkMFs5Bvfe\n6oUfX4Tc5cwjk37nzAqTMnRtPuzsIMvNfoMlrzoSe+oZ5NUrUjSd5L5LbqsYRrPK\nX4W4emoFJS2Jx+mmXPdGUiarqkp6Ylav7y5NeXTDnMHNdV2AxKxHjf5M5kPKaR7e\ny2zft9RDUyasKfXl2bNL06efH7BkUL0e0LviV7Hnfyh+nRtSeV7nLyEnlDFBGYuq\nzgAO3nwrRniBCOLwrXMo4ZsOETztbMjvcddQ8lz+7zWY4zJDEbAhxyfQ0g1+rHGc\nYYlOBeRkddDnI0KhCBAC0gAsI8d27jFqy1OBO6DcqQKBgQDaai2Kvl9wAq4zkWgB\nq1tny70F4HPScqSESwuKFWKAAIGQza3oe/wWqx075OnuKnsGVtpIT8e7ESYtjngg\nSkUGsz3Tac8WLE0QgaGmv3an0z/Hemhq9hXtjaG9MqO2bXUCWbuzrbu26UZDkYCE\n+gK1CyMUOpfzVdbfUJ4ayMCRPwKBgQC3DjuSlbaGT084iR4xUxVasXZkBlqk1I6E\nKji20+qUfXLuRSkSNCBZvRgB1yS4JM42yZtVSqin7gbbB0HH0dT6W4v4VKoIRh9d\nYwoyGm6qXyAJUmMuL7oQ1FN6uq1zvoAxzoQmKaPDjuo5JH+7U2aktiI12uDSVTEc\nB6IbOqJG9QKBgDZK/IUnq4upbuostADuOquDjro+QCxJCTJFgVnS1Qhil9KJ/jfz\nUgfEg2DXF3t3ndtGjb457rlGmwnqB1xned8fgTfjbnHhk0qOHsPXhkRTk+AfQoOM\nJolFkrX4N4/qh5KNAca5Yhcmx6uWKK9lgnTEjvTBV/JKHT6nyJV537x7AoGBAJJ+\nOmB5nWNozs5AtT/l7H3y7PrpNtsYG6FbJJ3zg5QnvLU/9blSq90E/dRjN0iCc+DW\ngI/GOqiBTU01RohBvT5Jyv8Fyjjq3SjgHIWyL4P6smmjXCnXGgFj2haqlCq/dlnl\nmk3sHtleYsUuF2ZzPP5tn30X17mbYby7wxglWT6NAoGALGyIlJY0zCk0I3404ior\nJCEnHPMZ0MZ8rPbkEkmw8FjxH+yeduMARiJFlfyHhXrMPMho0svxdmRPj8XPFiO3\n0ZSzIvsJXXA6feUSky22H76HoUp+ZUeNtIMGHfSieJwbh1vz1eg1ZDiB++jTvvHB\nRVvk0vq+ccEx7wU5ufKao14=\n-----END PRIVATE KEY-----\n",
+  "client_email": "dwizzydeliverybot@dwizzyfood-ybho.iam.gserviceaccount.com",
+  "client_id": "101569762156123420067",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dwizzydeliverybot%40dwizzyfood-ybho.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
